@@ -1,0 +1,409 @@
+{
+    "objects": [
+        {
+            "package": {
+                "name": "org.pcsoft.ide-ex",
+                "scope": "",
+                "description": "Extension for Unity for a better IDE.",
+                "version": "1.2.0",
+                "keywords": [
+                    "project",
+                    "extension",
+                    "tooling",
+                    "media"
+                ],
+                "date": "2023-03-27T18:16:12.191Z",
+                "author": {
+                    "name": "Pfeiffer C Soft",
+                    "email": "kl3in3rhack3r@gmail.com",
+                    "url": "https://github.com/KleinerHacker/unity-ide-ex"
+                },
+                "publisher": {},
+                "maintainers": [
+                    {
+                        "name": "Pfeiffer C Soft",
+                        "email": "kl3in3rhack3r@gmail.com",
+                        "url": "https://github.com/KleinerHacker/unity-ide-ex"
+                    }
+                ],
+                "links": {
+                    "npm": ""
+                }
+            },
+            "score": {
+                "final": 0,
+                "detail": {
+                    "quality": 0,
+                    "popularity": 0,
+                    "maintenance": 0
+                }
+            },
+            "searchScore": 1
+        },
+        {
+            "package": {
+                "name": "org.pcsoft.gaming.camera",
+                "scope": "",
+                "description": "Handling for in-game cameras",
+                "version": "1.0.0",
+                "keywords": [
+                    "gaming",
+                    "camera",
+                    "handling"
+                ],
+                "date": "2023-03-22T21:49:46.962Z",
+                "author": {
+                    "name": "Pfeiffer C Soft",
+                    "email": "kl3in3rhack3r@gmail.com",
+                    "url": "https://github.com/KleinerHacker/unity-gaming-camera"
+                },
+                "publisher": {},
+                "maintainers": [
+                    {
+                        "name": "Pfeiffer C Soft",
+                        "email": "kl3in3rhack3r@gmail.com",
+                        "url": "https://github.com/KleinerHacker/unity-gaming-camera"
+                    }
+                ],
+                "links": {
+                    "npm": ""
+                }
+            },
+            "score": {
+                "final": 0,
+                "detail": {
+                    "quality": 0,
+                    "popularity": 0,
+                    "maintenance": 0
+                }
+            },
+            "searchScore": 1
+        },
+        {
+            "package": {
+                "name": "org.pcsoft.base",
+                "scope": "",
+                "description": "Base for all Unity extensions",
+                "version": "1.0.2",
+                "keywords": [
+                    "commons",
+                    "extension",
+                    "base"
+                ],
+                "date": "2023-04-03T17:20:12.873Z",
+                "author": {
+                    "name": "Pfeiffer C Soft",
+                    "email": "kl3in3rhack3r@gmail.com",
+                    "url": "https://github.com/KleinerHacker/unity-base"
+                },
+                "publisher": {},
+                "maintainers": [
+                    {
+                        "name": "Pfeiffer C Soft",
+                        "email": "kl3in3rhack3r@gmail.com",
+                        "url": "https://github.com/KleinerHacker/unity-base"
+                    }
+                ],
+                "links": {
+                    "npm": ""
+                }
+            },
+            "score": {
+                "final": 0,
+                "detail": {
+                    "quality": 0,
+                    "popularity": 0,
+                    "maintenance": 0
+                }
+            },
+            "searchScore": 1
+        },
+        {
+            "package": {
+                "name": "org.pcsoft.animation",
+                "scope": "",
+                "description": "Provide a builder for animations based on Coroutines",
+                "version": "1.2.7",
+                "keywords": [
+                    "animation",
+                    "tooling",
+                    "extension",
+                    "builder"
+                ],
+                "date": "2023-03-13T18:51:30.156Z",
+                "author": {
+                    "name": "Pfeiffer C Soft",
+                    "email": "kl3in3rhack3r@gmail.com",
+                    "url": "https://github.com/KleinerHacker/unity-animation"
+                },
+                "publisher": {},
+                "maintainers": [
+                    {
+                        "name": "Pfeiffer C Soft",
+                        "email": "kl3in3rhack3r@gmail.com",
+                        "url": "https://github.com/KleinerHacker/unity-animation"
+                    }
+                ],
+                "links": {
+                    "npm": ""
+                }
+            },
+            "score": {
+                "final": 0,
+                "detail": {
+                    "quality": 0,
+                    "popularity": 0,
+                    "maintenance": 0
+                }
+            },
+            "searchScore": 1
+        },
+        {
+            "package": {
+                "name": "org.pcsoft.world-ex",
+                "scope": "",
+                "description": "Extension for Unity to use worlds instead of single scenes",
+                "version": "2.2.13",
+                "keywords": [
+                    "world",
+                    "scene",
+                    "tooling",
+                    "management",
+                    "blending"
+                ],
+                "date": "2023-02-16T19:07:25.728Z",
+                "author": {
+                    "name": "Pfeiffer C Soft",
+                    "email": "kl3in3rhack3r@gmail.com",
+                    "url": "https://github.com/KleinerHacker/unity-world-ex"
+                },
+                "publisher": {},
+                "maintainers": [
+                    {
+                        "name": "Pfeiffer C Soft",
+                        "email": "kl3in3rhack3r@gmail.com",
+                        "url": "https://github.com/KleinerHacker/unity-world-ex"
+                    }
+                ],
+                "links": {
+                    "npm": ""
+                }
+            },
+            "score": {
+                "final": 0,
+                "detail": {
+                    "quality": 0,
+                    "popularity": 0,
+                    "maintenance": 0
+                }
+            },
+            "searchScore": 1
+        },
+        {
+            "package": {
+                "name": "org.pcsoft.editor-ex",
+                "scope": "",
+                "description": "Extension for Editor system of Unity.",
+                "version": "1.1.17",
+                "keywords": [
+                    "editor",
+                    "extension",
+                    "tooling"
+                ],
+                "date": "2023-02-05T19:32:06.041Z",
+                "author": {
+                    "name": "Pfeiffer C Soft",
+                    "email": "kl3in3rhack3r@gmail.com",
+                    "url": "https://github.com/KleinerHacker/unity-editor-ex"
+                },
+                "publisher": {},
+                "maintainers": [
+                    {
+                        "name": "Pfeiffer C Soft",
+                        "email": "kl3in3rhack3r@gmail.com",
+                        "url": "https://github.com/KleinerHacker/unity-editor-ex"
+                    }
+                ],
+                "links": {
+                    "npm": ""
+                }
+            },
+            "score": {
+                "final": 0,
+                "detail": {
+                    "quality": 0,
+                    "popularity": 0,
+                    "maintenance": 0
+                }
+            },
+            "searchScore": 1
+        },
+        {
+            "package": {
+                "name": "org.pcsoft.extension",
+                "scope": "",
+                "description": "Extension for Unity itself.",
+                "version": "1.12.8",
+                "keywords": [
+                    "Unity",
+                    "extension",
+                    "tooling"
+                ],
+                "date": "2023-04-03T17:22:38.672Z",
+                "author": {
+                    "name": "Pfeiffer C Soft",
+                    "email": "kl3in3rhack3r@gmail.com",
+                    "url": "https://github.com/KleinerHacker/unity-extension"
+                },
+                "publisher": {},
+                "maintainers": [
+                    {
+                        "name": "Pfeiffer C Soft",
+                        "email": "kl3in3rhack3r@gmail.com",
+                        "url": "https://github.com/KleinerHacker/unity-extension"
+                    }
+                ],
+                "links": {
+                    "npm": ""
+                }
+            },
+            "score": {
+                "final": 0,
+                "detail": {
+                    "quality": 0,
+                    "popularity": 0,
+                    "maintenance": 0
+                }
+            },
+            "searchScore": 1
+        },
+        {
+            "package": {
+                "name": "org.pcsoft.build-tooling",
+                "scope": "",
+                "description": "Add a build toolbar into unity to create and run build very easy.",
+                "version": "1.4.7",
+                "keywords": [
+                    "toolbar",
+                    "build",
+                    "tooling",
+                    "compile"
+                ],
+                "date": "2022-02-25T20:33:12.688Z",
+                "author": {
+                    "name": "Pfeiffer C Soft",
+                    "email": "kl3in3rhack3r@gmail.com",
+                    "url": "https://github.com/KleinerHacker/unity-build-tooling"
+                },
+                "publisher": {},
+                "maintainers": [
+                    {
+                        "name": "openupm",
+                        "email": "openupm"
+                    }
+                ],
+                "links": {
+                    "npm": ""
+                }
+            },
+            "score": {
+                "final": 0,
+                "detail": {
+                    "quality": 0,
+                    "popularity": 0,
+                    "maintenance": 0
+                }
+            },
+            "searchScore": 1
+        },
+        {
+            "package": {
+                "name": "org.samsarette.ballpoint-unity",
+                "scope": "",
+                "description": "Friendly Wrappers for Inkle's Ink API on Unity.",
+                "version": "1.0.3-preview",
+                "keywords": [
+                    "ink",
+                    "inky",
+                    "inkle",
+                    "story",
+                    "narrative"
+                ],
+                "date": "2020-10-15T00:28:07.842Z",
+                "author": {
+                    "name": "Sam Sarette",
+                    "email": "samuelsarette@linux.com.com",
+                    "url": "https://github.com/lunarcloud"
+                },
+                "publisher": {},
+                "maintainers": [
+                    {
+                        "name": "openupm",
+                        "email": "openupm"
+                    }
+                ],
+                "links": {
+                    "npm": "",
+                    "homepage": "https://github.com/lunarcloud/ballpoint-unity#readme",
+                    "repository": {
+                        "type": "git",
+                        "url": "git+https://github.com/lunarcloud/ballpoint-unity.git"
+                    },
+                    "bugs": {
+                        "url": "https://github.com/lunarcloud/ballpoint-unity/issues"
+                    }
+                }
+            },
+            "score": {
+                "final": 0,
+                "detail": {
+                    "quality": 0,
+                    "popularity": 0,
+                    "maintenance": 0
+                }
+            },
+            "searchScore": 1
+        },
+        {
+            "package": {
+                "name": "org.pcsoft.android-ex",
+                "scope": "",
+                "description": "Extension for Unity Android usage.",
+                "version": "1.1.0",
+                "keywords": [
+                    "android",
+                    "extension",
+                    "mobile"
+                ],
+                "date": "2023-04-01T13:52:28.601Z",
+                "author": {
+                    "name": "Pfeiffer C Soft",
+                    "email": "kl3in3rhack3r@gmail.com",
+                    "url": "https://github.com/KleinerHacker/unity-android-ex"
+                },
+                "publisher": {},
+                "maintainers": [
+                    {
+                        "name": "Pfeiffer C Soft",
+                        "email": "kl3in3rhack3r@gmail.com",
+                        "url": "https://github.com/KleinerHacker/unity-android-ex"
+                    }
+                ],
+                "links": {
+                    "npm": ""
+                }
+            },
+            "score": {
+                "final": 0,
+                "detail": {
+                    "quality": 0,
+                    "popularity": 0,
+                    "maintenance": 0
+                }
+            },
+            "searchScore": 1
+        }
+    ],
+    "total": 10,
+    "time": "Mon, 11 Sep 2023 15:00:49 GMT"
+}
