@@ -1,7 +1,7 @@
 {
     "_updated": 99999,
-    "org.shadow-grove.webhooks-for-discord": {
-        "name": "org.shadow-grove.webhooks-for-discord",
+    "baal.shadow-grove.webhooks-for-discord": {
+        "name": "baal.shadow-grove.webhooks-for-discord",
         "displayName": "Webhooks for Discord",
         "description": "The easiest way to send messages to your Discord server from Unity!",
         "dist-tags": {
@@ -16,8 +16,8 @@
             "1.3.2": "latest"
         }
     },
-    "com.faster-games.aseprite": {
-        "name": "com.faster-games.aseprite",
+    "baal.faster-games.aseprite": {
+        "name": "baal.faster-games.aseprite",
         "displayName": "Aseprite Importer",
         "description": "An Aseprite importer for Unity3D. 🎨📤",
         "dist-tags": {
@@ -46,8 +46,8 @@
             "1.2.0": "latest"
         }
     },
-    "net.bobbo.global-knowledge": {
-        "name": "net.bobbo.global-knowledge",
+    "baal.bobbo.global-knowledge": {
+        "name": "baal.bobbo.global-knowledge",
         "displayName": "Global Knowledge",
         "description": "Globally available player knowledge. Talk about game state!",
         "dist-tags": {
@@ -71,8 +71,8 @@
             "0.1.0": "latest"
         }
     },
-    "com.jasonxudeveloper.jengine": {
-        "name": "com.jasonxudeveloper.jengine",
+    "baal.jasonxudeveloper.jengine": {
+        "name": "baal.jasonxudeveloper.jengine",
         "displayName": "JEngine",
         "description": "The solution that allows unity games update in runtime.",
         "dist-tags": {
