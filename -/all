@@ -1,0 +1,108 @@
+{
+    "_updated": 99999,
+    "org.shadow-grove.webhooks-for-discord": {
+        "name": "org.shadow-grove.webhooks-for-discord",
+        "displayName": "Webhooks for Discord",
+        "description": "The easiest way to send messages to your Discord server from Unity!",
+        "dist-tags": {
+            "latest": "1.3.2"
+        },
+        "maintainers": [],
+        "readmeFilename": "README.md",
+        "time": {
+            "modified": "2023-05-09T16:20:38.571Z"
+        },
+        "versions": {
+            "1.3.2": "latest"
+        }
+    },
+    "com.faster-games.aseprite": {
+        "name": "com.faster-games.aseprite",
+        "displayName": "Aseprite Importer",
+        "description": "An Aseprite importer for Unity3D. 🎨📤",
+        "dist-tags": {
+            "latest": "1.2.0"
+        },
+        "maintainers": [
+            {
+                "name": "openupm",
+                "email": "openupm"
+            }
+        ],
+        "author": {
+            "name": "Ben Greenier",
+            "email": "ben+faster-games@bengreenier.com",
+            "url": "https://bengreenier.com"
+        },
+        "readmeFilename": "README.md",
+        "keywords": [
+            "faster-games",
+            "aseprite"
+        ],
+        "time": {
+            "modified": "2021-08-23T03:42:15.306Z"
+        },
+        "versions": {
+            "1.2.0": "latest"
+        }
+    },
+    "net.bobbo.global-knowledge": {
+        "name": "net.bobbo.global-knowledge",
+        "displayName": "Global Knowledge",
+        "description": "Globally available player knowledge. Talk about game state!",
+        "dist-tags": {
+            "latest": "0.1.0"
+        },
+        "maintainers": [
+            {
+                "name": "BOBBO-NET",
+                "url": "https://bobbo.net"
+            }
+        ],
+        "author": {
+            "name": "BOBBO-NET",
+            "url": "https://bobbo.net"
+        },
+        "readmeFilename": "README.md",
+        "time": {
+            "modified": "2023-09-09T03:26:21.948Z"
+        },
+        "versions": {
+            "0.1.0": "latest"
+        }
+    },
+    "com.jasonxudeveloper.jengine": {
+        "name": "com.jasonxudeveloper.jengine",
+        "displayName": "JEngine",
+        "description": "The solution that allows unity games update in runtime.",
+        "dist-tags": {
+            "latest": "0.8.0"
+        },
+        "maintainers": [
+            {
+                "name": "JasonXuDeveloper",
+                "email": "jasonxudeveloper@gmail.com",
+                "url": "https://github.com/JasonXuDeveloper"
+            }
+        ],
+        "author": {
+            "name": "JasonXuDeveloper",
+            "email": "jasonxudeveloper@gmail.com",
+            "url": "https://github.com/JasonXuDeveloper"
+        },
+        "readmeFilename": "README.md",
+        "keywords": [
+            "HotUpdate",
+            "Unity",
+            "ILRuntime",
+            "HotFix"
+        ],
+        "license": "MIT",
+        "time": {
+            "modified": "2023-05-27T05:46:51.260Z"
+        },
+        "versions": {
+            "0.8.0": "latest"
+        }
+    }
+}
